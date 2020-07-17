@@ -1,0 +1,33 @@
+/*!
+ * Start Bootstrap - Business Frontpage (https://startbootstrap.com/templates/business-frontpage)
+ * Copyright 2013-2020 Start Bootstrap
+ * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-business-frontpage/blob/master/LICENSE)
+ */
+body {
+  /*padding-top: 25px;*/
+}
+
+header {
+    background-color: #c60c30;
+
+}
+
+#navbar {
+    background-color: #c60c30;
+    /*margin: 50px 0;*/
+}
+
+.navbar-brand {
+    font-family: "Arial Rounded MT Bold";
+    font-size: 2.25rem;
+    font-weight: bolder;
+}
+
+.nav-link {
+    font-size: 1.25rem;
+    font-weight: bold;
+}
+
+.lead {
+    font-size: large;
+}
