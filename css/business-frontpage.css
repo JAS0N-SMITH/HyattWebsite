@@ -22,9 +22,13 @@ header {
 }
 
 .navbar-brand {
-    font-family: "Arial";
+    font-family: Arial;
     font-size: 2.00rem;
     font-weight: bolder;
+}
+
+.true-value-logo-red {
+    width: 20%;
 }
 
 .order-online {
@@ -41,3 +45,4 @@ header {
 .lead {
     font-size: large;
 }
+
