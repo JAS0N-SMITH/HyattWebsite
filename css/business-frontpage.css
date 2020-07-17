@@ -3,24 +3,34 @@
  * Copyright 2013-2020 Start Bootstrap
  * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-business-frontpage/blob/master/LICENSE)
  */
+
+/* True Value Red: #DA1A32 */
+
+
 body {
   /*padding-top: 25px;*/
 }
 
 header {
-    background-color: #c60c30;
+    background-color: #DA1A32;
 
 }
 
 #navbar {
-    background-color: #c60c30;
+    background-color: #DA1A32;
     /*margin: 50px 0;*/
 }
 
 .navbar-brand {
-    font-family: "Arial Rounded MT Bold";
-    font-size: 2.25rem;
+    font-family: "Arial";
+    font-size: 2.00rem;
     font-weight: bolder;
+}
+
+.order-online {
+    font-family: Arial;
+    /*font-size: 1.50rem;*/
+    font-weight: bold;
 }
 
 .nav-link {
