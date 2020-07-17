@@ -11,24 +11,28 @@ body {
   /*padding-top: 25px;*/
 }
 
-header {
-    background-color: #DA1A32;
+/*header {*/
+/*    background-color: #DA1A32;*/
 
-}
+/*}*/
 
 #navbar {
     background-color: #DA1A32;
     /*margin: 50px 0;*/
 }
 
-.navbar-brand {
-    font-family: Arial;
-    font-size: 2.00rem;
-    font-weight: bolder;
+/*.navbar-brand {*/
+/*    font-family: Arial;*/
+/*    font-size: 2.00rem;*/
+/*    font-weight: bolder;*/
+/*}*/
+.logo-header {
+    width: 100%;
 }
 
-.true-value-logo-red {
-    width: 20%;
+.logos {
+    width: 25%;
+    padding: 1.15% 3%;
 }
 
 .order-online {
