@@ -26,7 +26,13 @@ body {
 /*    font-size: 2.00rem;*/
 /*    font-weight: bolder;*/
 /*}*/
-.logo-header {
+
+.top-logo-div {
+    padding: 50px 20px 5px;
+    background-color: #DA1A32;
+}
+
+.top-logo-image {
     width: 100%;
 }
 
@@ -50,3 +56,7 @@ body {
     font-size: large;
 }
 
+.order-online-card {
+    width: 100%;
+    padding: 80px 0 80px;
+}
