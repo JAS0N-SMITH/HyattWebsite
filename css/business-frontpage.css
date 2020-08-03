@@ -8,25 +8,19 @@
 
 
 body {
-  /*padding-top: 25px;*/
+
 }
-
-/*header {*/
-/*    background-color: #DA1A32;*/
-
-/*}*/
 
 #navbar {
     background-color: #DA1A32;
-    /*margin: 50px 0;*/
 }
 
-/*.navbar-brand {*/
-/*    font-family: Arial;*/
-/*    font-size: 2.00rem;*/
-/*    font-weight: bolder;*/
-/*}*/
-.logo-header {
+.top-logo-div {
+    padding: 40px 15px 0;
+    background-color: #DA1A32;
+}
+
+.top-logo-image {
     width: 100%;
 }
 
@@ -35,18 +29,27 @@ body {
     padding: 1.15% 3%;
 }
 
-.order-online {
-    font-family: Arial;
-    /*font-size: 1.50rem;*/
-    font-weight: bold;
-}
-
 .nav-link {
     font-size: 1.25rem;
     font-weight: bold;
 }
 
-.lead {
-    font-size: large;
+.header-text {
+    font-family: "Arial";
+    text-align: center;
+    font-size: 1.2rem;
+    color: white;
 }
 
+.order-online-card {
+    padding: 84px 0;
+    background-color: #DA1A32;
+}
+
+.order-online-card-footer {
+    background-color: #DA1A32;
+}
+
+.order-online-button {
+    color: #DA1A32;
+}
