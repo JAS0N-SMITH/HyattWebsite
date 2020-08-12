@@ -1,19 +1,9 @@
-/*!
- * Start Bootstrap - Business Frontpage (https://startbootstrap.com/templates/business-frontpage)
- * Copyright 2013-2020 Start Bootstrap
- * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-business-frontpage/blob/master/LICENSE)
- */
-
 /* True Value Red: #DA1A32 */
 
-
 body {
-
 }
 
-#navbar {
-    background-color: #DA1A32;
-}
+/*Top Logo*/
 
 .top-logo-div {
     padding: 40px 15px 0;
@@ -22,6 +12,12 @@ body {
 
 .top-logo-image {
     width: 100%;
+}
+
+/*Navbar*/
+
+#navbar {
+    background-color: #DA1A32;
 }
 
 .logos {
@@ -34,12 +30,19 @@ body {
     font-weight: bold;
 }
 
+/*Header Section*/
+
 .header-text {
     font-family: "Arial", sans-serif;
     text-align: center;
     font-size: 1.2rem;
     color: white;
 }
+
+/*Hours & Contact Us Section*/
+
+
+/*Card Section*/
 
 .order-online-card {
     padding: 84px 0;
