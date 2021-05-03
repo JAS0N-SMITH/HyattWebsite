@@ -8,10 +8,11 @@ body {
 .top-logo-div {
     padding: 40px 15px 0;
     background-color: #DA1A32;
+    text-align: center;
 }
 
 .top-logo-image {
-    width: 100%;
+    width: 75%;
 }
 
 /*Navbar*/
