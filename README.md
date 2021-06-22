@@ -1,4 +1,4 @@
-https://huchknows.github.io/HyattWebsite/
+https://jasandsmith.github.io/HyattWebsite/
 
 
 # [Start Bootstrap - Business Frontpage](https://startbootstrap.com/templates/business-frontpage/)
